@@ -104,18 +104,19 @@ loaded_LASSO_clf = joblib.load(open('VK_LASSO_Model.pkl', 'rb'))
 LASSO_prediction = loaded_LASSO_clf.predict(df_nonscaled)
 st.subheader('LASSO Regression Prediction df_nonscaled')
 st.write(LASSO_prediction)
+st.write(LASSO_prediction)
 
 
 
 # XG Boost Prediction
 
-loaded_XGB_clf = joblib.load(open('VK_xgboost_model.pkl', 'rb'))
-del df_XGB['households']
-del df_XGB['totalRooms']
-del df_XGB['totalBedrooms']
-xgb_prediction = loaded_XGB_clf.predict(df_XGB)
-st.subheader('XGBoost no households, totalRooms and totalBedrooms & no scaling ')
-st.write(xgb_prediction)
+# loaded_XGB_clf = joblib.load(open('VK_xgboost_model.pkl', 'rb'))
+# del df_XGB['households']
+# del df_XGB['totalRooms']
+# del df_XGB['totalBedrooms']
+# xgb_prediction = loaded_XGB_clf.predict(df_XGB)
+# st.subheader('XGBoost no households, totalRooms and totalBedrooms & no scaling ')
+# st.write(xgb_prediction)
 #st.write(#prediction#)
 
 
@@ -216,11 +217,3 @@ st.write(ELASTIC_prediction_standardscaler)
 #
 # st.pyplot(loaded_clf.predictions)
 # sns.distplot(loaded_clf.predictions-y_test)
-
-
-
-
-
-
-
-
