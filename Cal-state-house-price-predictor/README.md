@@ -14,7 +14,7 @@ keep up with your project or list all the install versions you need
 you should also have code snippets to let them run your project
 any setup.sh part should be notified here.
 ### Installation:
-Import the following packages (install if they are not installed)
+*Import the following packages (install if they are not installed)
 import streamlit as st
 import pandas as pd
 import joblib
@@ -57,6 +57,7 @@ Which will open the browser window and open the client for user to input the val
 
 The sample out is given in the jpg file
 sample output.JPG
+
 
 ## Contact
 Any questions Please contact Vijayakumar Kurup vkkurup@gmail.com
