@@ -1,4 +1,4 @@
-READ ME
+# READ ME
 ## Table of Contents:
 (Links to different parts of the README, all throughout the github project)
 ## Introduction:
