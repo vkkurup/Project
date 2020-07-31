@@ -59,7 +59,7 @@ Which will open the browser window and open the client for user to input the val
 The sample out is given in the jpg file
 
 ```
-![Image](sample output.JPG)
+![Image](https://raw.githubusercontent.com/vkkurup/Project/master/Cal-state-house-price-predictor/sample%20output.JPG)
 
 ## Contact
 Any questions Please contact Vijayakumar Kurup vkkurup@gmail.com
