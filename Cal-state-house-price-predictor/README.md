@@ -69,7 +69,7 @@ The sample out is given in the jpg file
 ![Image](https://raw.githubusercontent.com/vkkurup/Project/master/Cal-state-house-price-predictor/sample%20output.JPG)
 
 ## Contact:
-Any questions Please contact [Vijayakumar Kurup](vkkurup@gmail.com)
+Any questions Please contact [Vijayakumar Kurup](mailto:vkkurup@gmail.com)
 
 ## Acknowledgements:
 
