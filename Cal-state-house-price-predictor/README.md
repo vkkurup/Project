@@ -57,9 +57,10 @@ streamlit run homepredictor.py
 Which will open the browser window and open the client for user to input the value using slide bar for various features.
 
 The sample out is given in the jpg file
-sample output.JPG
 
 ```
+![Image](sample output.JPG)
+
 ## Contact
 Any questions Please contact Vijayakumar Kurup vkkurup@gmail.com
 ## Acknowledgements
