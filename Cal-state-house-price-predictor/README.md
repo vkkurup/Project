@@ -36,6 +36,9 @@ link to the file every time just so they check it out
 
 ### Input File: 
 Describe inputs and outputs (and particular things to keep in mind like row weights n), mention how flexible your code is. 
+
+### Implement the code : 
+#### Jupyter Notebook: 
 ```
 1. Load the data from cal_housing with header.csv
 2. Process preprocessing
@@ -52,7 +55,9 @@ Copy following files xx.pkl, scaler file xx.save, homepredictor.py.
 Eg: VK_ELASTIC_Model_mm.pkl elastic = elasticnet, mm = min-max scaler CV = cross validation used etc.
 Capstone California House-LR-RR-LASSO-NET - Zscore standardization.ipynb
 LR – Linear regression, RR = Ridge, Lasso = lasso regression, Zscre is the standardization etc.
-
+```
+#### Command Prompt and Python file: 
+```
 Import the following packages (install if they are not installed)
 import streamlit as st
 import pandas as pd
@@ -66,6 +71,8 @@ Which will open the browser window and open the client for user to input the val
 The sample out is given in the jpg file
 
 ```
+### Output
+#### Local Webpage
 ![Image](https://raw.githubusercontent.com/vkkurup/Project/master/Cal-state-house-price-predictor/sample%20output.JPG)
 
 ## Contact:
