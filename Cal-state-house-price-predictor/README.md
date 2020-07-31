@@ -28,7 +28,7 @@ import joblib
 from sklearn.ensemble import RandomForestClassifier
 ```
 > using the command prompt(with conda or any other which has the env as given in the requirements.txt.) run the following command
-> streamlit run homepredictor.py
+`` streamlit run homepredictor.py ``
 
 ## Usage:
 link to the file every time just so they check it out
