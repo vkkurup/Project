@@ -2,12 +2,11 @@
 
 ## Table of Contents:
 (Links to different parts of the README, all throughout the github project)
-[Link](Introduction:)
-[Link](Included with the project:)
-[Link](Getting Started:)
-[Link](Usage:)
-[Link](Contact:)
-[Link](Acknowledgements:)
+[Introduction](#Introduction:)
+[Getting Started](#Getting Started:)
+[Usage](#Usage:)
+[Contact](#Contact:)
+[Acknowledgements](#Acknowledgements:)
 ## Introduction:
 "This project is for housing price prediction [application, script or something better] in the "California" area. " ADD MORE INFORMATION FOR MOTIVATION AND FUTURE APPLICATIONS on what we can do with this project
 (Picture or pictures with great result of your project)
